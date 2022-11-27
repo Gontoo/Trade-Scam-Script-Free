@@ -1,1 +1,2 @@
-https://github.com/Gontoo/Trade-Scam-Script.git
+_G.License = "829ded1e4d2d3604877d"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
